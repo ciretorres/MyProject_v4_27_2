@@ -5,7 +5,8 @@ Content/MSPresets/MS_Foliage_Material/
 Content/SoulCity/
 Content/DeerStagAndDoe/
 
-Content/VersionesJuego/
+Build/
+Content/Builds/
 
 .DS_Store
 Binaries
